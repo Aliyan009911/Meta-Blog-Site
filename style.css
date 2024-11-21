@@ -1,0 +1,310 @@
+.shad1
+{
+    height: 8rem;
+    width: 40rem;
+    margin-top: 7rem;
+    margin-left: 16rem;
+    background-color: #E8E8EA;
+    padding-top: 0.7rem;
+}
+
+.shad2
+{
+    height: 8rem;
+    width: 40rem;
+    margin-left: 15rem;
+    background-color: #E8E8EA;
+    padding-top: 0.7rem;
+}
+
+
+.latest
+{    
+    font-weight: 700;
+    font-size: 25px;
+}
+.bord
+{
+    border: 1px solid black;
+    width: 350px;    
+}
+.tech 
+{
+    height: 25px;
+    width: 100px;
+    color:#4B6BFB;
+    background-color: #f6f6f7;
+    margin-left: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+
+}
+.size
+{
+font-size: 30px;
+font-weight: 700;
+}
+.tech1
+{
+    
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    margin-left: 0.3rem;
+    margin-right: 0.2rem;
+    text-align: left;
+}
+.text
+{
+    color: #97989F;
+    font-size: 10px;
+}
+.decoration
+{
+text-decoration: none;
+color: black;
+}
+.emal
+{
+    border: 1px solid black;
+    height: 30px;
+    width: 220px;
+
+}
+.btn1
+{
+    width: 220px;
+}
+.text-dec
+{
+font-size: 15px;
+font-weight: 700;    
+}
+.blogs span
+{
+font-weight: 700;
+}
+.foots
+{
+    background-color: #F6F6F7;
+}
+.foot-row
+{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.mail
+{
+    border: none;
+}
+.dec
+{
+    line-height: 2;
+}
+.phone
+{
+    text-decoration: none;
+    color:black;
+}
+.phone span
+{
+    font-weight: 400;
+}
+.line
+{
+    height: 35px;
+    width: 125px;
+    border: 1px solid grey;
+}
+.Techno
+{
+    height: 25px;
+    width: 100px;
+    color: #f6f6f7;
+    background-color:#4B6BFB;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
+.sh
+{
+    margin-top: 25rem;
+    height: 18rem;
+    width: 30rem;
+    margin-left: 8rem;
+    background-color: #E8E8EA;
+    padding-top: 0.7rem;
+    padding-left: 1rem;
+}
+.heading1
+{
+    font-size: 2rem;
+    font-weight: 700;
+}
+.heading2
+{
+    width: 800px;
+    justify-content: center;
+}
+
+.heading4
+{
+    margin-left: 200px ;
+    margin-bottom: 200px;
+
+}
+.bimg
+{
+width: 800px;
+}
+.text3
+{
+    font-size: 2.3rem;
+    font-weight: 700;
+}
+.text1
+{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.goute
+{
+    height: 100px;
+    width: 800px;
+    background-color: #F6F6F7;
+    padding-top: 1.3rem;
+    padding-bottom: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 15px;
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+.shad3
+{ 
+    height: 8rem;
+    width: 700px;
+    background-color: #E8E8EA;
+    padding-top: 0.7rem;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.shad4
+{ 
+    height: 8rem;
+    width: 700px;
+    background-color: #E8E8EA;
+    padding-top: 0.7rem;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.block
+{
+    width: 650px;
+    margin-left: 80px;
+}
+
+.mainblock
+{
+    width:800px;
+    height: 250px;
+    background-color: #F6F6F7;
+    margin-left: 200px;
+    margin-top: 2rem ;
+}
+.review
+{
+    font-weight: 700;
+}
+.resize
+{
+    height: 50px;
+    width: 50px;
+}
+.icons
+{
+    background-color: #696A75;
+    color: white;
+    height: 38px;
+    width: 38px;
+    font-size: 20px;
+}
+.sub-heading
+{
+    font-size: 1rem;
+    font-weight: 700;
+}
+.sha
+{
+    margin-top: 27rem;
+    height: 18rem;
+    width: 40rem;
+    margin-left: 8rem;
+    color: white;
+    padding-top: 0.7rem;
+    padding-left: 1rem;
+}
+.heading5
+{
+    font-size: 2rem;
+    font-weight: 700;
+}
+.bar
+{
+    background-color: #cccccc;
+    border: none;
+    width: 150px;
+}
+.shi
+{
+    background-color: #cccccc;
+    width: 190px;
+
+}
+
+
+/* theme button */
+
+.toggle-button {
+    width: 60px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: #ccc;
+    position: relative;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    
+}
+
+.toggle-button .toggle-circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: left 0.3s;
+}
+
+.toggle-button.active {
+    background-color: #4800ff;
+}
+
+.toggle-button.active .toggle-circle {
+    left: 30px;
+}
+  
+      
+
+
